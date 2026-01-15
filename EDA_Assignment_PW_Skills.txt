@@ -1,6 +1,5 @@
 
 EDA ASSIGNMENT ANSWERS (PW SKILLS)
-Human-Written Version
 
 ================================
 EDA - 1 : Bike Details Dataset
