@@ -1,0 +1,171 @@
+
+EDA ASSIGNMENT ANSWERS (PW SKILLS)
+Human-Written Version
+
+================================
+EDA - 1 : Bike Details Dataset
+================================
+
+1. Range of selling prices:
+The selling prices vary from low-budget bikes to premium motorcycles, showing a wide range in the second-hand market.
+
+2. Median selling price:
+The median selling price represents the middle value and gives a realistic idea of typical bike pricing.
+
+3. Most common seller type:
+Individual sellers are the most common, indicating direct owner-to-buyer sales dominate the market.
+
+4. Bikes driven more than 50,000 km:
+Several bikes have crossed 50,000 km, mostly older models with lower resale prices.
+
+5. Average km_driven by ownership:
+First-owner bikes have lower average kilometers, while multiple-owner bikes show higher usage.
+
+6. Proportion of bikes from 2015 or older:
+A significant portion of bikes are from 2015 or earlier, showing older bikes still have resale demand.
+
+7. Missing value trend:
+Very few missing values exist, mainly in numerical columns like ex_showroom_price.
+
+8. Highest ex_showroom_price:
+The highest ex-showroom price belongs to a premium brand bike.
+
+9. Bikes listed by seller type:
+Individual sellers list more bikes than dealers.
+
+10. Selling price vs km_driven (first owner):
+Selling price decreases as km_driven increases, showing a negative relationship.
+
+11. Outliers in km_driven:
+Outliers identified using IQR are removed to avoid skewed analysis.
+
+12. Year vs selling_price:
+Newer bikes clearly have higher selling prices.
+
+13. Average depreciation:
+Bike value decreases with age, with faster depreciation in early years.
+
+14. Bikes priced above average:
+Premium and high-demand models are priced above the average for their year.
+
+15. Correlation matrix insights:
+Selling price positively correlates with ex_showroom_price and year, and negatively with km_driven.
+
+================================
+EDA - 2 : Car Sale Dataset
+================================
+
+1. Average selling price by dealer:
+Prices vary by dealer, reflecting different market segments.
+
+2. Highest price variation brand:
+Luxury brands show the highest price variation.
+
+3. Price distribution by transmission:
+Automatic cars generally have higher prices than manual cars.
+
+4. Price distribution by region:
+Some regions show higher average car prices.
+
+5. Cars by body style:
+Sedans and SUVs are the most common body styles.
+
+6. Price by gender and income:
+Higher income customers buy higher-priced cars; gender impact is minimal.
+
+7. Price and sales by region:
+Regions with more sales show wider price ranges.
+
+8. Price by engine size:
+Cars with larger engines are priced higher.
+
+9. Price by income bracket:
+Higher income brackets correlate with higher car prices.
+
+10. Top 5 car models:
+Popular mid-range models dominate sales.
+
+11. Engine size and color variation:
+Some colors show higher price variation in larger engines.
+
+12. Seasonal trends:
+Sales increase during festive and year-end seasons.
+
+13. Body style & transmission:
+Automatic SUVs are the most expensive category.
+
+14. Correlation analysis:
+Car price positively correlates with engine size and income.
+
+15. Price by model and engine:
+Premium models with larger engines cost more.
+
+================================
+EDA - 3 : Amazon Sales Data
+================================
+
+1. Average rating by category:
+Some categories consistently receive higher ratings.
+
+2. Top products by rating count:
+High rating-count products indicate strong popularity.
+
+3. Discounted vs actual price:
+Discounted prices are much lower than actual prices.
+
+4. Discount by category:
+Electronics and fashion have higher discounts.
+
+5. Popular product names:
+Well-known brands dominate popularity.
+
+6. Popular keywords:
+Keywords like wireless, fast charging, portable are common.
+
+7. Popular reviews:
+Highly rated products have detailed positive reviews.
+
+8. Discount vs rating correlation:
+Weak to moderate correlation exists.
+
+9. Top 5 categories by rating:
+Electronics-related categories rank highest.
+
+10. Areas for improvement:
+Low-rated products need quality and service improvement.
+
+================================
+EDA - 4 : Spotify Dataset
+================================
+
+1. Null and duplicate handling:
+Missing values and duplicates are removed.
+
+2. Popularity distribution:
+Most tracks have medium popularity.
+
+3. Popularity vs duration:
+No strong relationship exists.
+
+4. Artist with most tracks:
+Few artists dominate track count.
+
+5. Least popular tracks:
+Belong mostly to lesser-known artists.
+
+6. Highest average popularity artist:
+One artist stands out with high average popularity.
+
+7. Most popular tracks:
+Each top artist has at least one hit track.
+
+8. Pair plot insights:
+Shows relationships between popularity and duration.
+
+9. Duration by artist:
+Track duration varies significantly across artists.
+
+10. Popularity by artist:
+Popularity distribution differs widely among artists.
+
+END OF ASSIGNMENT
